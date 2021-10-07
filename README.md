@@ -1,2 +1,2 @@
 # ci_cd
-Trying out git for first time
+This is the master branch and should be in sync with development branch
